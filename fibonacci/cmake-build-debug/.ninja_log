@@ -1,0 +1,7 @@
+# ninja log v5
+0	75	6936747827569065	CMakeFiles/fibonacci.dir/main.c.obj	fb4fbd68496ffa64
+76	182	6936747828595530	fibonacci.exe	6645c54751ff6a35
+2	76	6936747898309103	CMakeFiles/fibonacci.dir/main.c.obj	fb4fbd68496ffa64
+77	180	6936747899296454	fibonacci.exe	6645c54751ff6a35
+2	75	6936748144111016	CMakeFiles/fibonacci.dir/main.c.obj	fb4fbd68496ffa64
+75	176	6936748145077852	fibonacci.exe	6645c54751ff6a35
